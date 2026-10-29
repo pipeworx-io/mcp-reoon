@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/reoon",
   "title": "Reoon",
   "description": "Reoon MCP — wraps the Reoon Email Verifier API (reoon.com)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/reoon",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-reoon",
